@@ -32,6 +32,10 @@ var questions = [
     question: "What do I prefer Android or IOS? ",
     answer: "Android",
   },
+  {
+		question: "What do I prefer windows or mac?",
+		answer: "windows",
+	},
 ];
 
 function welcome() {
